@@ -24,6 +24,9 @@ Conclusion
 This example provides a foundation for building an advanced calculator app using Python and tkinter. Depending on your needs, you can expand this by adding more mathematical functions, error handling, and a more sophisticated GUI layout.
 
 
+preview
+
+![image](https://github.com/user-attachments/assets/af8c15d8-237c-4297-86e7-89a7d20cd6db)
 
 
 
